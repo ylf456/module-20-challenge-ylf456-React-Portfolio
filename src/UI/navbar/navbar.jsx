@@ -5,8 +5,7 @@ import { useState } from "react";
 import "./index.css";
 
 export default function NavBar() {
-  const [currentPage, setCurrentPage] = useState('/');
- 
+  const [currentPage, setCurrentPage] = useState(`${window.location.pathname}`);
   
   // The Navbar UI component will render each of the Link elements in the links prop
   return (
