@@ -6,10 +6,10 @@ footerContainer:{
 
 export default function FooterComponent({ links }) {
     return (
-      <footer className="footer">
-        <div className="container-fluid">
-          <div className="row" id="">
-            <ul className="">
+      <footer className="bg-dark text-light text-center py-2 text-lg">
+        <div className="container">
+          <div>
+            <ul>
               {links.map((link) => link)}
             </ul>
           </div>

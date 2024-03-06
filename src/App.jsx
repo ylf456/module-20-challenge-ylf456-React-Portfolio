@@ -8,8 +8,8 @@ function App() {
   return (
     <>
       <Nav />
-      <Footer />
       <Outlet />
+      <Footer />     
     </>
   );
 }
