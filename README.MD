@@ -7,17 +7,18 @@ This portfolio page
 ## Installation
 
 Open the following profile page link in your browser:
-- 
+
 
 local development: 
 - any code editor
-- go to my github repo and download the app folder into your local device: 
+- go to my github repo and download the app folder into your local device: https://github.com/ylf456/module-20-challenge-ylf456-React-Portfolio.git
 - install the required node packages by changing your terminal dir to root folder and run `npm i` 
 
 ## Usage
 
 This portfolio page made by React is for showcase of ylf456's porfile. 
-If you want to use the template of this portfolio page for local development, go to the github page 
+
+If you want to use the template of this portfolio page for local development, please go to the github page and download the content.
 
 ## Credits
 
@@ -51,7 +52,7 @@ SOFTWARE.
 
 Netify link:
 
-Github Repo: 
+Github Repo: https://github.com/ylf456/module-20-challenge-ylf456-React-Portfolio.git
 
 ## Screenshots
 
