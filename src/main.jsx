@@ -1,7 +1,7 @@
 import ReactDOM from 'react-dom/client';
 import {createBrowserRouter, RouterProvider } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-//import './index.css';
+import './index.css';
 
 // Bringing in the pages the router will use to conditionally show the appropriate views
 import App from './App';
@@ -42,7 +42,7 @@ const router = createBrowserRouter([
 ReactDOM.createRoot(document.getElementById('root')).render(
   <RouterProvider router={router} />
 );
-
+// add high light nav bar
 
 // AS AN employer looking for candidates with experience building single-page applications
 // I WANT to view a potential employee's deployed React portfolio of work samples

@@ -5,7 +5,7 @@ export default function ErrorPage() {
   console.error(error);
 
   return (
-    <div id="error-page">
+    <div className="body-content" id="error-page">
       <h1>Oops!</h1>
       <p>404. Something went wrong!</p>
       <p>
