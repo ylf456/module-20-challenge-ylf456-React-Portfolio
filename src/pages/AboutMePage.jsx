@@ -21,14 +21,14 @@ export default function AboutMePage() {
     <div className="body-content" id="aboutme-content" >
       <img
         style={styles.image}
-        src="../../public/assets/images/avatar_placeholder.png" alt="A recent photo of Yilun Fan"
+        src="/assets/images/avatar_placeholder.png" alt="A recent photo of Yilun Fan"
       ></img>
       <div className="container" style={styles.container}>
         <h1 className="mb-4">AboutMe</h1>
         <p style={styles.pElFont}>
           "Yilun Fan, a Biochemistry graduate from the University of California,
           San Diego, earned his Bachelor's degree in 2021. Currently based in
-          Alhambra, CA 91801, he brings experience as an Analyst in the
+          Alhambra, CA 91801. He brings experience as an Analyst in the
           Chemistry Lab at UCSD and two years of managing restaurant & catering
           services. Yilun has honed strong analytical and independent
           problem-solving skills and excels in interpersonal communication and
