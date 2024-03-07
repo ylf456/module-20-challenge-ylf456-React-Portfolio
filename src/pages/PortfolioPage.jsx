@@ -1,5 +1,11 @@
 import Card from "./components/portfolioComponent";
-
+// resize the containers using styles obj
+const styles = {
+  cardContainer:{
+    height:"100vh",
+    width:"60vw",
+  }
+}
 export default function Portfolio() {
   return (
     <Card

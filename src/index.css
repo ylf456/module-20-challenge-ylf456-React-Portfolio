@@ -6,6 +6,8 @@
 
 .body-content {
     flex:1;
+    height:200%;
+    overflow-y: scroll;
 }
 
 #aboutme-content{
