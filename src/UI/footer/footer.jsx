@@ -11,6 +11,9 @@ export default function Footer() {
         <p key={2}>Linkedin: 
           <a href="https://www.linkedin.com/in/yilun-fan-270a0b234/" target="_blank">https://www.linkedin.com/in/yilun-fan-270a0b234/</a>
         </p>,
+        <p key={3}> Third link placeholder
+        <a href="" target="_blank">link</a>
+      </p>,
       ]}
     />
   );
