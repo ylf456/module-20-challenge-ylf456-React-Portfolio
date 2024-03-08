@@ -1,16 +1,18 @@
+import "./stylesheet/resume.css";
 export default function ResumePage() {
-    return (
-      <div className="body-content">
-        <h1>Resume</h1>
-        <p>ResumePage content</p>
-        <p></p>
-        <p></p>
-        <div className="download-container">
-        <a href='/assets/PDF/Yilun+Fan+CV+2023.pdf' download>
-        <h2>Download My Resume</h2>
+  return (
+    <div className="resume-page">
+      <h1>Resume Page</h1>
+      <p>Programming language: Javascript and Node.js</p>
+      <p>Frontend: HTML+CSS+Javascript, express-handlebar, React</p>
+      <p>Backend: express server (RESTful structure or Apollo)</p>
+      <p>Database: MongoDB, sequelize and mysql</p>
+      <div id="download-container">
+        <a href="/assets/PDF/Yilun+Fan+CV+2023.pdf" download>
+          <h2>Download My Resume</h2>
         </a>
-        <img src="/assets/images/download.png"></img>
-        </div>
+        <img id="download-icon" src="/assets/images/download.png"></img>
       </div>
-    );
-  }
+    </div>
+  );
+}
