@@ -1,0 +1,17 @@
+.resume-page {
+    flex:1;
+    margin-top: 3%;
+    margin-left:3%;
+}
+
+#download-container {
+  display: flex;
+  direction: row;
+  justify-content: start;
+  align-items: center;
+}
+
+#download-icon {
+    max-width: 3%;
+    max-height: 3%;
+}
