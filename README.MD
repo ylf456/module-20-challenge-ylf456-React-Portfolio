@@ -2,23 +2,23 @@
 
 ## Description
 
-This portfolio page 
+This portfolio webpage, built with HTML and CSS, utilizing React for the front-end, has been created by Yilun Fan. It serves as a showcase for biography and resume, also designed for study purposes.
 
 ## Installation
 
-Open the following profile page link in your browser:
-
+Open the following profile page link in your browser: https://heroic-kringle-c4e2bb.netlify.app/
 
 local development: 
 - any code editor
 - go to my github repo and download the app folder into your local device: https://github.com/ylf456/module-20-challenge-ylf456-React-Portfolio.git
-- install the required node packages by changing your terminal dir to root folder and run `npm i` 
+- install the required node packages by changing your terminal dir to root folder and run `npm i`
+- run `npm run develop` to start the local server at port 3006
 
 ## Usage
 
 This portfolio page made by React is for showcase of ylf456's porfile. 
 
-If you want to use the template of this portfolio page for local development, please go to the github page and download the content.
+If you want to use the template of this portfolio page for local development, please go to the github page and download the content to host the server on your local device.
 
 ## Credits
 
@@ -50,10 +50,10 @@ SOFTWARE.
 
 ## Link to this application
 
-Netify link:
+Netlify link: https://heroic-kringle-c4e2bb.netlify.app/
 
 Github Repo: https://github.com/ylf456/module-20-challenge-ylf456-React-Portfolio.git
 
 ## Screenshots
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![A picture of home page (about me page)](./public/assets/images/screenshot.png)
